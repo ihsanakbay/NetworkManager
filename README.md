@@ -1,6 +1,6 @@
 # Swift Network Manager
 
-## Usage
+## Usage example
 
 ```swift
 enum Api: URLGenerator {
